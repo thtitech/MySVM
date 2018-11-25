@@ -5,4 +5,4 @@ kernel_dct = {
     "linear": linear_kernel
 }
 
-eps = 10**(-9)
+eps = 10**(-7)
